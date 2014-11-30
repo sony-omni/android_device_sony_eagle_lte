@@ -1,7 +1,8 @@
 [
  {
    "repository": "android_device_sony_eagle",
-   "target_path": "device/sony/eagle"
+   "target_path": "device/sony/eagle",
+   "revision": "android-5.0"
  },
  {
    "repository": "android_kernel_sony_eagle",
@@ -25,7 +26,8 @@
  },
  {
    "repository": "android_device_sony_qcom-common",
-   "target_path": "device/sony/qcom-common"
+   "target_path": "device/sony/qcom-common",
+   "revision": "android-5.0"
  },
  {
    "remote": "omnirom",
