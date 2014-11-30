@@ -24,10 +24,8 @@
    "revision": "android-5.0"
  },
  {
-   "remote": "omnirom",
    "repository": "android_device_sony_qcom-common",
-   "target_path": "device/sony/qcom-common",
-   "revision": "android-5.0"
+   "target_path": "device/sony/qcom-common"
  },
  {
    "remote": "omnirom",
