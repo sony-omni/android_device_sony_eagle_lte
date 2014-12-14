@@ -93,6 +93,8 @@ use.voice.path.for.pcm.voip=true
 #enable dsp gapless mode by default
 audio.offload.gapless.enabled=true
 
+persist.sys.media.use-awesome=true
+
 #Eagle is reusing the software solution from Xperia Z (Yuga), in Eagle the tunnel decoding must be disabled
 tunnel.decode=false
 
@@ -103,5 +105,8 @@ persist.radio.sim2.networkname=empty
 # [VY53][Bug1434][DMS03993317][So] ASIA-AU: Emergency calls only is not displayed either for SIM1 or SIM2, instead No Service is displayed
 persist.radio.sim1.callable=false
 persist.radio.sim2.callable=false
+
+# Camera
+camera2.portability.force_api=1
 
 ro.cci.flex_version=FF_SHP_VY52.0.0.0001

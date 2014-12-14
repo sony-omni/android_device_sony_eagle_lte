@@ -31,6 +31,24 @@
  },
  {
    "remote": "omnirom",
+   "repository": "android_hardware_qcom_display-caf-bfam",
+   "target_path": "hardware/qcom/display-caf-bfam",
+   "revision": "android-5.0"
+ },
+ {
+   "remote": "omnirom",
+   "repository": "android_hardware_qcom_media-caf-bfam",
+   "target_path": "hardware/qcom/media-caf-bfam",
+   "revision": "android-5.0"
+ },
+ {
+   "remote": "omnirom",
+   "repository": "android_hardware_qcom_audio-caf-bfam",
+   "target_path": "hardware/qcom/audio-caf-bfam",
+   "revision": "android-5.0"
+ },
+ {
+   "remote": "omnirom",
    "repository":   "android_hardware_sony_DASH",
    "target_path":  "hardware/sony/DASH",
    "revision": "android-5.0"
