@@ -5,9 +5,9 @@
    "revision": "android-5.0"
  },
  {
-   "repository": "android_kernel_sony_eagle",
+   "repository": "android_kernel_caf_msm8x26",
    "target_path": "kernel/sony/eagle",
-   "revision": "android-5.0"
+   "revision": "lp"
  }, {
    "repository": "proprietary_vendor_sony",
    "target_path": "vendor/sony",
