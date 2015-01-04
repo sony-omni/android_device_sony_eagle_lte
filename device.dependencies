@@ -8,7 +8,8 @@
    "repository": "android_kernel_caf_msm8x26",
    "target_path": "kernel/sony/eagle",
    "revision": "lp-sb-3.5.1"
- }, {
+ },
+ {
    "repository": "proprietary_vendor_sony",
    "target_path": "vendor/sony",
    "revision": "android-5.0"
@@ -19,6 +20,11 @@
    "revision": "android-5.0-test"
  },
  {
+   "repository": "android_hardware_qcom_gps",
+   "target_path": "hardware/qcom/gps",
+   "revision": "cm-12.0"
+ },
+ {
    "remote": "omnirom",
    "repository": "android_device_sony_common",
    "target_path": "device/sony/common",
@@ -27,11 +33,6 @@
  {
    "repository": "android_device_sony_qcom-common",
    "target_path": "device/sony/qcom-common",
-   "revision": "android-5.0"
- },
- {
-   "repository": "android_device_qcom_sepolicy",
-   "target_path": "device/qcom/sepolicy",
    "revision": "android-5.0"
  },
  {
