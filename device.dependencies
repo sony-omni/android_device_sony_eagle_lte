@@ -20,11 +20,6 @@
    "revision": "android-5.0-test"
  },
  {
-   "repository": "android_hardware_qcom_gps",
-   "target_path": "hardware/qcom/gps",
-   "revision": "cm-12.0"
- },
- {
    "remote": "omnirom",
    "repository": "android_device_sony_common",
    "target_path": "device/sony/common",
