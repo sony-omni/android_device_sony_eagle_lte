@@ -2,7 +2,7 @@
  {
    "repository": "android_device_sony_eagle",
    "target_path": "device/sony/eagle",
-   "revision": "android-5.0"
+   "revision": "android-5.0-test"
  },
  {
    "repository": "android_kernel_caf_msm8x26",
@@ -10,14 +10,14 @@
    "revision": "lp-sb-3.5.1"
  },
  {
-   "repository": "proprietary_vendor_sony_eagle",
+   "repository": "proprietary_vendor_sony",
    "target_path": "vendor/sony",
    "revision": "android-5.0"
  },
  {
    "repository": "android_device_sony_msm8226-common",
    "target_path": "device/sony/msm8226-common",
-   "revision": "android-5.0"
+   "revision": "android-5.0-test"
  },
  {
    "repository": "android_hardware_qcom_gps",
