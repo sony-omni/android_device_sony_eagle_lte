@@ -10,7 +10,7 @@
    "revision": "lp-sb-3.5.1"
  },
  {
-   "repository": "proprietary_vendor_sony",
+   "repository": "proprietary_vendor_sony_eagle",
    "target_path": "vendor/sony",
    "revision": "android-5.0"
  },
