@@ -12,7 +12,7 @@
  {
    "repository": "proprietary_vendor_sony",
    "target_path": "vendor/sony",
-   "revision": "android-5.0"
+   "revision": "android-5.0-test"
  },
  {
    "repository": "android_device_sony_msm8226-common",
