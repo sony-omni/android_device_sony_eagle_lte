@@ -2,7 +2,7 @@
  {
    "repository": "android_device_sony_eagle",
    "target_path": "device/sony/eagle",
-   "revision": "android-5.0-test"
+   "revision": "android-5.0-alt"
  },
  {
    "repository": "android_kernel_caf_msm8x26",
@@ -12,7 +12,7 @@
  {
    "repository": "proprietary_vendor_sony",
    "target_path": "vendor/sony",
-   "revision": "android-5.0-test"
+   "revision": "android-5.0-alt"
  },
  {
    "repository": "android_device_sony_msm8226-common",
