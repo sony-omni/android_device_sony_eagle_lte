@@ -7,7 +7,7 @@
  {
    "repository": "android_kernel_caf_msm8x26",
    "target_path": "kernel/sony/eagle",
-   "revision": "lp-sb"
+   "revision": "lp-wip"
  },
  {
    "repository": "proprietary_vendor_sony",
