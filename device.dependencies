@@ -12,7 +12,7 @@
  {
    "repository": "proprietary_vendor_sony",
    "target_path": "vendor/sony",
-   "revision": "android-5.0-test"
+   "revision": "android-5.0"
  },
  {
    "repository": "android_device_sony_msm8226-common",
@@ -23,11 +23,6 @@
    "repository": "android_hardware_qcom_gps",
    "target_path": "hardware/qcom/gps",
    "revision": "cm-12.0"
- },
- {
-   "repository": "android_hardware_sony_thermanager",
-   "target_path": "hardware/sony/thermanager",
-   "revision": "android-5.0"
  },
  {
    "remote": "omnirom",
