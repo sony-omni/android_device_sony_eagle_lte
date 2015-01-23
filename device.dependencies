@@ -10,9 +10,9 @@
    "revision": "al-5.0"
  },
  {
-   "repository": "proprietary_vendor_sony",
+   "repository": "proprietary_vendor_sony_yukon",
    "target_path": "vendor/sony",
-   "revision": "android-5.0-test"
+   "revision": "lollipop"
  },
  {
    "repository": "android_device_sony_msm8226-common",
