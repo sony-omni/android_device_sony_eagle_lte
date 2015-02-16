@@ -10,6 +10,11 @@
    "revision": "android-5.0"
  },
  {
+   "repository": "android_kernel_caf_msm8x26",
+   "target_path": "kernel/sony/msm8226",
+   "revision": "android-3.10"
+ },
+ {
    "repository": "proprietary_vendor_sony",
    "target_path": "vendor/sony",
    "revision": "android-5.0"
