@@ -12,7 +12,7 @@
  {
    "repository": "kernel",
    "target_path": "kernel/sony/msm8226",
-   "revision": "android-3.10"
+   "revision": "wip-3.10"
  },
  {
    "repository": "proprietary_vendor_sony",
