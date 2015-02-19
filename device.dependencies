@@ -12,7 +12,7 @@
  {
    "repository": "kernel",
    "target_path": "kernel/sony/msm8226",
-   "revision": "wip-3.10"
+   "revision": "android-3.10"
  },
  {
    "repository": "proprietary_vendor_sony",
@@ -42,17 +42,17 @@
  {
    "repository": "android_hardware_qcom_display-caf-bfam",
    "target_path": "hardware/qcom/display-caf-bfam",
-   "revision": "android-5.0"
+   "revision": "android-3.10"
  },
  {
    "repository": "android_hardware_qcom_media-caf-bfam",
    "target_path": "hardware/qcom/media-caf-bfam",
-   "revision": "android-5.0"
+   "revision": "android-3.10"
  },
  {
    "repository": "android_hardware_qcom_audio-caf-bfam",
    "target_path": "hardware/qcom/audio-caf-bfam",
-   "revision": "android-5.0"
+   "revision": "android-3.10"
  },
  {
    "remote": "omnirom",
