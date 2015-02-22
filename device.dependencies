@@ -37,7 +37,7 @@
  {
    "repository": "android_hardware_qcom_display-caf-bfam",
    "target_path": "hardware/qcom/display-caf-bfam",
-   "revision": "android-5.0-caf"
+   "revision": "android-5.0"
  },
  {
    "repository": "android_hardware_qcom_media-caf-bfam",
