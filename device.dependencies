@@ -7,7 +7,7 @@
  {
    "repository": "android_kernel_caf_msm8x26",
    "target_path": "kernel/sony/msm8226",
-   "revision": "3.10-test"
+   "revision": "3.10"
  },
  {
    "repository": "proprietary_vendor_sony",
