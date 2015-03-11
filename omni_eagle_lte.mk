@@ -8,7 +8,6 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/sony/eagle/full_eagle.mk)
 
 PRODUCT_PROPERTY_OVERRIDES += \
-   persist.radio.multisim.config=dsds \
    telephony.lteOnGsmDevice=1 \
    ro.telephony.default_network=9
 
