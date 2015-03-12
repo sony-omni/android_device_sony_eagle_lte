@@ -53,5 +53,5 @@
    "repository": "timekeep",
    "target_path": "hardware/sony/timekeep",
    "revision": "master"
- },
+ }
 ]
