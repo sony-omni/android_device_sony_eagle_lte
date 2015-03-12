@@ -50,9 +50,8 @@
    "revision": "android-5.0"
  },
  {
-   "remote": "omnirom",
-   "repository":   "android_hardware_sony_DASH",
-   "target_path":  "hardware/sony/DASH",
-   "revision": "android-5.0"
- }
+   "repository": "timekeep",
+   "target_path": "hardware/sony/timekeep",
+   "revision": "master"
+ },
 ]
