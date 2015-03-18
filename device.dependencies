@@ -7,7 +7,7 @@
  {
    "repository": "android_kernel_caf_msm8x26",
    "target_path": "kernel/sony/msm8226",
-   "revision": "android-5.0"
+   "revision": "android-5.0-test"
  },
  {
    "repository": "proprietary_vendor_sony",
@@ -37,17 +37,17 @@
  {
    "repository": "android_hardware_qcom_display-caf-bfam",
    "target_path": "hardware/qcom/display-caf-bfam",
-   "revision": "android-5.0"
+   "revision": "android-5.0-test"
  },
  {
    "repository": "android_hardware_qcom_media-caf-bfam",
    "target_path": "hardware/qcom/media-caf-bfam",
-   "revision": "android-5.0"
+   "revision": "android-5.0-test"
  },
  {
    "repository": "android_hardware_qcom_audio-caf-bfam",
    "target_path": "hardware/qcom/audio-caf-bfam",
-   "revision": "android-5.0"
+   "revision": "android-5.0-test"
  },
  {
    "repository": "timekeep",
