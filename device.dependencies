@@ -50,6 +50,11 @@
    "revision": "android-5.1"
  },
  {
+   "repository": "android_hardware_qcom_camera",
+   "target_path": "hardware/qcom/camera",
+   "revision": "android-5.1"
+ },
+ {
    "repository": "timekeep",
    "target_path": "hardware/sony/timekeep",
    "revision": "master"
