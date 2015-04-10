@@ -7,7 +7,7 @@
  {
    "repository": "android_kernel_caf_msm8x26",
    "target_path": "kernel/sony/msm8226",
-   "revision": "LA.BF64.1.2.1"
+   "revision": "LA.BF64.1.2.1_RB1"
  },
  {
    "repository": "proprietary_vendor_sony",
